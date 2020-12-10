@@ -11,4 +11,12 @@ char_to_dots = {
   '-': '-....-', '+': '.-.-.', '"': '.-..-.', '?': '..--..', '/': '-..-.'
 }
 
-def 
+def encode_morse(message):
+  out = ""
+  
+  for i in message:
+    out += f"{char_to_dots[i.upper()]} "
+    
+  return out.strip()
+
+print(encode_morse("Hello World!")
