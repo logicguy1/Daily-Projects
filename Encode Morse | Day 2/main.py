@@ -19,4 +19,4 @@ def encode_morse(message):
     
   return out.strip()
 
-print(encode_morse("Hello World!")
+print(encode_morse("Hello World!"))
