@@ -1,4 +1,4 @@
-## C*ns*r*d Str*ngs | Day 3
+## C\*ns\*r\*d Str\*ngs | Day 3
 
 Someone has attempted to censor my strings by replacing every vowel with a `*`, `l*k* th*s`. Luckily, I've been able to find the vowels that were removed.
 
