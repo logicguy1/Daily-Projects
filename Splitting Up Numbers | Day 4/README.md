@@ -1,8 +1,8 @@
-## Splitting Up Numbers | Day 4
+# Splitting Up Numbers | Day 4
 
 Create a function that takes a number `num` and returns each place value in the number.
 
-# Examples
+## Examples
 ```py
 num_split(39) ➞ [30, 9]
 
