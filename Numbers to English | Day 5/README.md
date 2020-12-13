@@ -1,7 +1,7 @@
-## Numbers to English | Day 5
+# Numbers to English | Day 5
 Write a function that accepts a positive integer between `0` and `999` inclusive and returns a string representation of that integer written in English.
 
-# Examples
+## Examples
 ```py
 num_to_eng(0) ➞ "zero"
 
