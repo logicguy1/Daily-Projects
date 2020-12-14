@@ -5,6 +5,6 @@ def fizz_buzz(num): # Initialise the function
     if num % 5 == 0: # Check if it is devisabel by 5
         out += "Buzz" # Add buzz to the output
     if out == "": # If neather of the above conditions were met run this
-        out += num # Add just the num to the output
+        out += str(num) # Add just the num to the output
 
     return out # Return out
